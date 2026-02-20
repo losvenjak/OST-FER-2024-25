@@ -5,9 +5,9 @@ Seminar Paper – Defense Systems and Technologies
 
 This project investigates the possibility of estimating and predicting pilot performance in a flight simulator under startle conditions using physiological signals:
 
--EDA (Electrodermal Activity) – skin conductance
--ECG (Electrocardiogram) – cardiac activity
--QRS detection – heartbeat analysis
+- EDA (Electrodermal Activity) – skin conductance
+- ECG (Electrocardiogram) – cardiac activity
+- QRS detection – heartbeat analysis
 
 A Linear Discriminant Analysis (LDA) model was developed for performance classification.
 
